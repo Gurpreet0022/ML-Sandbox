@@ -1,3 +1,6 @@
 [submodule "Linear_Regression"]
 	path = Linear_Regression
 	url = https://github.com/Gurpreet0022/Linear_Regression.git
+[submodule "Classify_That_Fruit"]
+	path = Classify_That_Fruit
+	url = https://github.com/Gurpreet0022/Classify_That_Fruit.git
