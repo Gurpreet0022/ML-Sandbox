@@ -4,3 +4,6 @@
 [submodule "Classify_That_Fruit"]
 	path = Classify_That_Fruit
 	url = https://github.com/Gurpreet0022/Classify_That_Fruit.git
+[submodule "Cardio-Tree-Classifier"]
+	path = Cardio-Tree-Classifier
+	url = https://github.com/Gurpreet0022/Cardio-Tree-Classifier.git
