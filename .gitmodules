@@ -7,3 +7,6 @@
 [submodule "Cardio-Tree-Classifier"]
 	path = Cardio-Tree-Classifier
 	url = https://github.com/Gurpreet0022/Cardio-Tree-Classifier.git
+[submodule "WineQualityPrediction"]
+	path = WineQualityPrediction
+	url = https://github.com/Gurpreet0022/WineQualityPrediction.git
