@@ -13,6 +13,7 @@ This repository is organized into submodules, with each folder representing a di
 | 🍷**Wine Quality Prediction**      | Classical ML project to predict the quality of wines.              | [Wine Quality Prediction](WineQualityPrediction/) |
 | 🎥 **Movie Success Prediction**   | Predict whether a movie is Hit or Flop based on features like genre , season etc.| [Movie Success Prediction](movie-success-prediction.ipynb)|
 | 🍇 **Classify That Fruit**        | Classify various fruits based on their features.                  | [Classify That Fruit](Classify_That_Fruit/) |
+| 💸 **Loan Default Prediction**    | Predict whether a person will be a loan defaulter or not.          | [Loan Default Prediction](https://www.kaggle.com/code/kaurgurpreet123/loandefaultpred-ipynb)|
 --
 
 ## 🛠️ Tools and Technologies
